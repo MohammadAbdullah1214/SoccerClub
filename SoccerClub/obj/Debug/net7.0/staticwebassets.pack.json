@@ -1,0 +1,701 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SoccerClub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SoccerClub.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\2821048.webp",
+      "PackagePath": "staticwebassets\\images\\2821048.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\award-img1.png",
+      "PackagePath": "staticwebassets\\images\\award-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\award-img3.png",
+      "PackagePath": "staticwebassets\\images\\award-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\award-img4.png",
+      "PackagePath": "staticwebassets\\images\\award-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\banner.jpeg",
+      "PackagePath": "staticwebassets\\images\\banner.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\banner56.jpeg",
+      "PackagePath": "staticwebassets\\images\\banner56.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\bannerbg1.webp",
+      "PackagePath": "staticwebassets\\images\\bannerbg1.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\bg-6.webp",
+      "PackagePath": "staticwebassets\\images\\bg-6.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\bg-mc.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-mc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\bg-mc3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-mc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\bg-ms2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-ms2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\bg-subanner.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-subanner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\blogs-tg.webp",
+      "PackagePath": "staticwebassets\\images\\blogs-tg.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\clubs-lgo2.png",
+      "PackagePath": "staticwebassets\\images\\clubs-lgo2.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\clubs-logo1.png",
+      "PackagePath": "staticwebassets\\images\\clubs-logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\co1.jpg",
+      "PackagePath": "staticwebassets\\images\\co1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\co2.jpg",
+      "PackagePath": "staticwebassets\\images\\co2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\co3.jpg",
+      "PackagePath": "staticwebassets\\images\\co3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\co4.jpg",
+      "PackagePath": "staticwebassets\\images\\co4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\creat-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\creat-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\fc-1.jpg",
+      "PackagePath": "staticwebassets\\images\\fc-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\fc-2.jpg",
+      "PackagePath": "staticwebassets\\images\\fc-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\fgh.jpg",
+      "PackagePath": "staticwebassets\\images\\fgh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\gall1.jpg",
+      "PackagePath": "staticwebassets\\images\\gall1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\gall2.jpg",
+      "PackagePath": "staticwebassets\\images\\gall2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\gall3.jpg",
+      "PackagePath": "staticwebassets\\images\\gall3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\gall4.webp",
+      "PackagePath": "staticwebassets\\images\\gall4.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\gall5.jpg",
+      "PackagePath": "staticwebassets\\images\\gall5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\gall6.jpg",
+      "PackagePath": "staticwebassets\\images\\gall6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\gall7.jpg",
+      "PackagePath": "staticwebassets\\images\\gall7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\gfs.jpg",
+      "PackagePath": "staticwebassets\\images\\gfs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\goal2.jpg",
+      "PackagePath": "staticwebassets\\images\\goal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\goals3.webp",
+      "PackagePath": "staticwebassets\\images\\goals3.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\goals4.jpg",
+      "PackagePath": "staticwebassets\\images\\goals4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\goals5.jpg",
+      "PackagePath": "staticwebassets\\images\\goals5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\goals6.jpg",
+      "PackagePath": "staticwebassets\\images\\goals6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\manages-st.jpg",
+      "PackagePath": "staticwebassets\\images\\manages-st.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\manages-st2.jpg",
+      "PackagePath": "staticwebassets\\images\\manages-st2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\manages-st3.jpg",
+      "PackagePath": "staticwebassets\\images\\manages-st3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\manages-st4.jpg",
+      "PackagePath": "staticwebassets\\images\\manages-st4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\megabg.webp",
+      "PackagePath": "staticwebassets\\images\\megabg.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\news1.jpg",
+      "PackagePath": "staticwebassets\\images\\news1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\pexels-photo-12460951.jfif",
+      "PackagePath": "staticwebassets\\images\\pexels-photo-12460951.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\product-13-copyright-393x426.webp",
+      "PackagePath": "staticwebassets\\images\\product-13-copyright-393x426.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\product01.jpg",
+      "PackagePath": "staticwebassets\\images\\product01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\product02.webp",
+      "PackagePath": "staticwebassets\\images\\product02.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\product03.jpg",
+      "PackagePath": "staticwebassets\\images\\product03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\pso.webp",
+      "PackagePath": "staticwebassets\\images\\pso.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py1.jpg",
+      "PackagePath": "staticwebassets\\images\\py1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py10.jpg",
+      "PackagePath": "staticwebassets\\images\\py10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py11.jpg",
+      "PackagePath": "staticwebassets\\images\\py11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py12.jpg",
+      "PackagePath": "staticwebassets\\images\\py12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py2.jpg",
+      "PackagePath": "staticwebassets\\images\\py2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py3.jpg",
+      "PackagePath": "staticwebassets\\images\\py3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py4.jpg",
+      "PackagePath": "staticwebassets\\images\\py4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py5.jpg",
+      "PackagePath": "staticwebassets\\images\\py5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py6.jpg",
+      "PackagePath": "staticwebassets\\images\\py6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py7.jpg",
+      "PackagePath": "staticwebassets\\images\\py7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py8.jpg",
+      "PackagePath": "staticwebassets\\images\\py8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\py9.jpg",
+      "PackagePath": "staticwebassets\\images\\py9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\shoes.jpg",
+      "PackagePath": "staticwebassets\\images\\shoes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\shoes1.webp",
+      "PackagePath": "staticwebassets\\images\\shoes1.webp"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\sp1.jpg",
+      "PackagePath": "staticwebassets\\images\\sp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\sp2.jpg",
+      "PackagePath": "staticwebassets\\images\\sp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\sp3.jpg",
+      "PackagePath": "staticwebassets\\images\\sp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\team-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\team-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\team-bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\win.jfif",
+      "PackagePath": "staticwebassets\\images\\win.jfif"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\images\\wine2.jpg",
+      "PackagePath": "staticwebassets\\images\\wine2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mabdu\\Downloads\\TechWiz\\SoccerClub\\wwwroot\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SoccerClub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SoccerClub.props",
+      "PackagePath": "build\\SoccerClub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SoccerClub.props",
+      "PackagePath": "buildMultiTargeting\\SoccerClub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SoccerClub.props",
+      "PackagePath": "buildTransitive\\SoccerClub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

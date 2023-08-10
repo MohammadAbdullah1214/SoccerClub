@@ -1,0 +1,186 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SoccerClub</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SoccerClub.styles.css" asp-append-version="true" />
+    <!-- Bootstrap CSS -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="~/../../../../stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;600;700;800&amp;family=Cormorant:wght@500&amp;family=Josefin+Sans:wght@400;500;600&amp;family=Merriweather:wght@300;400;700;900&amp;family=Nunito:wght@300;400;500;600&amp;family=Open+Sans:wght@300;400;500;600;700;800&amp;family=Playfair+Display:wght@400;500;600;700;800;900&amp;family=Quicksand:wght@300;400;500;600;700&amp;family=Roboto:wght@300;400;500;700&amp;family=Saira+Condensed:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+
+
+    <link href="~/css/all.min.css" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css" />
+
+    <link rel="stylesheet" href="~/../../../../cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/jquery.fancybox.min.css">
+
+
+</head>
+
+<body>
+
+    <header class="float-start w-100">
+
+        <nav class="navbar navbar-expand-lg navbar-light ">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">
+                    <img src="~/images/logo.png" alt="logo" />
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRightmobile">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="matches.html">Matches</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="about.html">Soccer Info</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="schedule.html">Matches</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="news.html">News</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="players.html">Players Gallery</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="media.html">Media</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="shop.html">Statistics</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link " href="contact.html">Contact</a>
+                        </li>
+                        <partial name="_LoginPartial" />
+                        <li class="nav-item">
+                            <a class="nav-link btn bar-btn" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRightmobile"><i class="fas fa-bars"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </header>
+    <div class="">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="py-5 float-start w-100">
+
+        <div class="container">
+            <div class="row row-cols-1 row-cols-lg-3">
+                <div class="col">
+                    <div class="comon-footer">
+                        <h5> Contact Info </h5>
+                        <p class="col-lg-10">
+                            We're a professional football club in Karachi, Pakistan, founded in 1990.
+                            It is a long established fact.
+                        </p>
+                        <ul class="list-unstyled d-flex align-items-center mt-2">
+                            <li>
+                                <a href="#"> <i class="fab fa-facebook"></i> </a>
+                            </li>
+                            <li class="mx-2">
+                                <a href="#"> <i class="fab fa-twitter"></i> </a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-instagram"></i> </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="comon-footer">
+                        <h5> Resources </h5>
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="#"> Matches </a>
+                            </li>
+                            <li>
+                                <a href="#"> The Club </a>
+                            </li>
+                            <li>
+                                <a href="#"> Member </a>
+                            </li>
+                            <li>
+                                <a href="#"> News </a>
+                            </li>
+                            <li>
+                                <a href="#"> Players </a>
+                            </li>
+
+                            <li>
+                                <a href="#"> Media </a>
+                            </li>
+
+                            <li>
+                                <a href="#"> Shop </a>
+                            </li>
+
+                            <li>
+                                <a href="#"> Contact </a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="comon-footer">
+                        <h5>Newsletter</h5>
+                        <p> We'll send updates straight to your Mail. Let's Do stay connected!</p>
+                        <div class="d-flex mt-3 align-items-center">
+                            <input type="text" class="form-control" placeholder="Enter Email" />
+                            <button type="submit" class="btn scub-btn">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up-right-square-fill" viewBox="0 0 16 16">
+                                    <path d="M14 0a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12zM5.904 10.803 10 6.707v2.768a.5.5 0 0 0 1 0V5.5a.5.5 0 0 0-.5-.5H6.525a.5.5 0 1 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 .707.707z" />
+                                </svg>
+                            </button>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <hr />
+            <p class="text-center copy-t"> Copyright 2023 Soccer FC Club, All Right Reserved</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
